@@ -51,6 +51,10 @@ If a question feels awkward in your context, it probably is. Replace it.
 - [`affiliate-disclosure-templates`](https://github.com/0xelitesystem/affiliate-disclosure-templates) - same audience: solo creators researching their market
 - [`oss-readme-template`](https://github.com/0xelitesystem/oss-readme-template) - structure for the docs that come after research
 
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
+
 ## License
 
 MIT. Copy these into your company's internal wiki. Modify them. You don't need to credit this repo.
